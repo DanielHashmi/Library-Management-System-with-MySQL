@@ -13,5 +13,5 @@ A simple Library Management System built with **Streamlit** and **MySQL**. It al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DanielHashmi/Library-Management-System.git
-   cd Library-Management-System
+   git clone https://github.com/DanielHashmi/Library-Management-System-with-MySQL.git
+   cd Library-Management-System-with-MySQL
